@@ -139,10 +139,11 @@ python eval.py
 ## Citation
 
 ```
-@article{zhang2024graphtranslator,
+@inproceedings{zhang2024graphtranslator,
   title={GraphTranslator: Aligning Graph Model to Large Language Model for Open-ended Tasks},
   author={Zhang, Mengmei and Sun, Mingwei and Wang, Peng and Fan, Shen and Mo, Yanhu and Xu, Xiaoxiao and Liu, Hong and Yang, Cheng and Shi, Chuan},
-  journal={arXiv preprint arXiv:2402.07197},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={1003--1014},
   year={2024}
 }
 ```
